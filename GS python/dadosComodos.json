@@ -1,0 +1,24 @@
+{
+    "comodos": {
+      "quarto": {
+        "luminosidade": 300,
+        "temperatura": 25.5,
+        "umidade": 40
+      },
+      "sala": {
+        "luminosidade": 500,
+        "temperatura": 22.0,
+        "umidade": 45
+      },
+      "cozinha": {
+        "luminosidade": 800,
+        "temperatura": 20.5,
+        "umidade": 50
+      },
+      "banheiro": {
+        "luminosidade": 400,
+        "temperatura": 24.0,
+        "umidade": 55
+      }
+    }
+  }
