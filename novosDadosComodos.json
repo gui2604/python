@@ -1,0 +1,20 @@
+{
+    "comodos": {
+      "escritorio": {
+        "luminosidade": 300,
+        "temperatura": 23.5,
+        "umidade": 40
+      },
+      "deposito": {
+        "luminosidade": 500,
+        "temperatura": 18.0,
+        "umidade": 45
+      },
+      "quarto_hospedes": {
+        "luminosidade": 250,
+        "temperatura": 24.5,
+        "umidade": 35
+      }
+    }
+  }
+  
